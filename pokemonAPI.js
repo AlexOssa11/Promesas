@@ -25,5 +25,5 @@ async function buscarPokemon(nombre) {
   }
 }
 
-buscarPokemon('pikachu');
+buscarPokemon('palkia');
 
